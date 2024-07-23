@@ -1,0 +1,3 @@
+
+alias pc='node <path_to_lib>/prompt_helper/content.lister.js '
+alias pcs='node <path_to_lib>/prompt_helper/content.lister.sanitized.js '
